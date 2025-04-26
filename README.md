@@ -1,43 +1,48 @@
-Well Hello There! ✨
-I'm Gabriel Hernández, a Web Developer who loves creating innovative solutions. I specialize in building responsive web applications, developing scalable backends, and exploring new technologies to enhance user experiences.
-🛠️ Skills & Technologies
-Languages & Frameworks:
+# Well Hello There! ✨  
 
-JavaScript (React, Node.js)
-PHP
-HTML/CSS (Tailwind CSS)
-Currently learning Python
+I'm Gabriel Hernández, a Web Developer who loves creating innovative solutions. I specialize in building responsive web applications, developing scalable backends, and exploring new technologies to enhance user experiences.  
 
-Development:
+## 🛠️ Skills & Technologies  
 
-Frontend Development
-Backend Architecture
-Database Management (Firebase, MySQL)
-RESTful API Design
+### Languages & Frameworks:  
+JavaScript (React, Node.js)<br>
+PHP<br>
+HTML/CSS (Tailwind CSS)<br>
+Currently learning Python  
 
-<!--- 💼 Projects
-(You can list your key projects here) --->
+### Development:  
+Frontend Development<br>
+Backend Architecture<br>
+Database Management (Firebase, MySQL)<br>
+RESTful API Design  
 
-🎓 Education
+<!--- 
+## 💼 Projects  
+(You can list your key projects here) 
+--->  
 
-Higher Education Degree in Web Application Development (DAW)
+## 🎓 Education  
+Higher Education Degree in Web Application Development (DAW)  
 
-<!--- 🏆 Certifications & Achievements --->
+<!--- 
+## 🏆 Certifications & Achievements 
+--->  
 
-<!--- 📫 Contact Me
+<!--- 
+## 📫 Contact Me  
+LinkedIn: Gabriel Hernández<br>
+Email: alfagabriel11@gmail.com 
+--->  
 
-LinkedIn: Gabriel Hernández
-Email: alfagabriel11@gmail.com --->
+## 🌐 Interests  
+Web Development<br>
+AI Automation<br>
+Emerging Technologies  
 
-🌐 Interests
+## ⚡ Fun Fact  
+When I'm not coding, I'm obsessed with automating every mundane task in my life – from smart home routines to scripting away repetitive work. My ultimate goal? To build enough automation that my coffee starts brewing when my code compiles!  
 
-Web Development
-AI Automation
-Emerging Technologies
-
-⚡ Fun Fact: When I'm not coding, I'm obsessed with automating every mundane task in my life – from smart home routines to scripting away repetitive work. My ultimate goal? To build enough automation that my coffee starts brewing when my code compiles!
-
-*Let's connect and collaborate on exciting projects!*
+*Let's connect and collaborate on exciting projects!*  
 
 <!---
 Silvergab/Silvergab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
