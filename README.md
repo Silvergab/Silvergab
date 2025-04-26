@@ -1,4 +1,3 @@
-👋 Hi, I'm @Silvergab
 Well Hello There! ✨
 I'm Gabriel Hernández, a Web Developer who loves creating innovative solutions. I specialize in building responsive web applications, developing scalable backends, and exploring new technologies to enhance user experiences.
 🛠️ Skills & Technologies
@@ -37,6 +36,7 @@ AI Automation
 Emerging Technologies
 
 ⚡ Fun Fact: When I'm not coding, I'm obsessed with automating every mundane task in my life – from smart home routines to scripting away repetitive work. My ultimate goal? To build enough automation that my coffee starts brewing when my code compiles!
+
 Let's connect and collaborate on exciting projects!
 
 <!---
