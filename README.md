@@ -37,7 +37,7 @@ Emerging Technologies
 
 ⚡ Fun Fact: When I'm not coding, I'm obsessed with automating every mundane task in my life – from smart home routines to scripting away repetitive work. My ultimate goal? To build enough automation that my coffee starts brewing when my code compiles!
 
-Let's connect and collaborate on exciting projects!
+[Let's connect and collaborate on exciting projects!](url)
 
 <!---
 Silvergab/Silvergab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
